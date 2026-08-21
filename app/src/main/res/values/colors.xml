@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#C25E38</color>
+    <color name="primary_variant">#A84F2E</color>
+    <color name="secondary">#E07A5F</color>
+    <color name="background_cream">#FFFBF5</color>
+    <color name="surface_warm">#FAF0E6</color>
+    <color name="text_dark">#4A2810</color>
+    <color name="text_muted">#784A28</color>
+    <color name="whatsapp_green">#25D366</color>
+</resources>

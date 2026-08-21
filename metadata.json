@@ -1,0 +1,6 @@
+{
+  "name": "Lanche Aconchego",
+  "description": "Landing page e cardápio interativo para a lanchonete Lanche Aconchego (Rua Rio Dimiti, nº 26, Bairro São José Operário, 69086-051 - Manaus, AM) com seleção em tempo real, cálculo de entrega e pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
